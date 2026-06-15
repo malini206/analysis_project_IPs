@@ -45,4 +45,4 @@ This mapping connects the observed indicators to adversary tactics, showing how 
 - Script: `vt_check.py`  
 
 ## 👩‍💻 Author
-Malinee — Cybersecurity Intern
+Malini — Cybersecurity Intern
